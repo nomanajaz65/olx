@@ -1,0 +1,55 @@
+.a{
+    text-decoration: none;
+    margin-left: 50px;
+}
+
+.b{
+    text-decoration: none;
+    margin-left: 30px;
+
+}
+.c{
+    text-decoration: none;
+    margin-left: 30px;
+
+}
+
+.d{
+margin-left: 50px;    
+text-decoration: none;
+}
+
+.one{
+    background-color: beige;
+    
+}
+.two{
+    background-color: whitesmoke;
+    word-spacing: 10px;
+}
+
+.e{
+    margin-left: 60px;
+}
+
+.f{
+    margin-left: 20px;
+}
+
+.g{
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+.bc{
+    position: fixed;
+    left: 40%;
+    top: 150px;
+    color: red;
+    
+}
+
+.BCD{
+    margin-left: 350px;
+}
+
